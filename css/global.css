@@ -1,0 +1,7 @@
+.search{
+	width:60%;
+}
+
+.search > input.form-control {
+	width:85%;
+}
